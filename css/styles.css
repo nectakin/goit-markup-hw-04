@@ -438,6 +438,7 @@ background-color: #404bbf;
 .container-footer{
     display: flex;
     align-items: baseline;
+    margin-left: 156px;
 }
 
 .footer-text{
@@ -500,6 +501,8 @@ span.logo-footer-studio{
         gap: 16px;
         align-items: center;
     justify-content: center;
+    margin-left: -120px;
+    margin-bottom: -70px;
     /* width: 206px;
     margin-top: -16px; */
 }
